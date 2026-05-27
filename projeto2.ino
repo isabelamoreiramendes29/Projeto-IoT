@@ -7,8 +7,8 @@
 // =============================================
  
 // Rede Wi-Fi
-const char* ssid     = "CSI-Lab";
-const char* password = "In@teLCS&I";
+const char* ssid     = "";
+const char* password = "";
  
 // Broker HiveMQ Cloud
 const char* mqtt_server = "b1bc381827e547a6b1caec499bd42756.s1.eu.hivemq.cloud";
